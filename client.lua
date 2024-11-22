@@ -18,7 +18,7 @@ local cutsceneCoords = vector3(-1025.4, 694.62, 161.27)
 
 -- Admin Menu
 
-RegisterCommand('admin_fjern', function (source, args, raw)
+RegisterCommand(Config.fjerncoords, function (source, args, raw)
     local options = {}
     QBCore.Functions.TriggerCallback('nt_drugdelivery_getcoords_all', function(result)
         for _, row in ipairs(result) do
