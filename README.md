@@ -1,4 +1,5 @@
 # Notepad's Drug Delivery
+Lavede dette script for lang tid siden. Skulle gerne virker men er ikke sikker.
 ## Requirements
 * QBCore
 * Ox_lib
@@ -10,4 +11,4 @@
 * Input sqls i din database.
 * Start scripted.
 ## Problemer
-Kontakt mig på discord: ._.notepad
+Nogle problemer så kontakt mig på discord: ._.notepad
